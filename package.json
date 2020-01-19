@@ -1,0 +1,29 @@
+{
+  "name": "consume-rest-api",
+  "version": "1.0.0",
+  "description": "Package babel usando ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guihgs/Consume-Rest-Api.git"
+  },
+  "keywords": [
+    "ES6",
+    "Rest",
+    "Api",
+    "Javascript"
+  ],
+  "author": "Guilherme Queiroz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guihgs/Consume-Rest-Api/issues"
+  },
+  "homepage": "https://github.com/guihgs/Consume-Rest-Api#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3"
+  }
+}
